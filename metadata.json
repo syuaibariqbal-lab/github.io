@@ -1,0 +1,6 @@
+{
+  "name": "Inventaris Lab SMA",
+  "description": "Aplikasi manajemen inventaris laboratorium SMA untuk pencatatan item, ruang, posisi lemari/kontainer, kategori bahan, status kondisi, serta cetak laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
